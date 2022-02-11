@@ -1,0 +1,18 @@
+.item{
+    color: #3a3a42;
+    background-color: silver;
+    width: 70%;
+    border: 1px solid #898362;
+    margin-top: 1%;
+
+
+}
+
+h2{
+    color:brown;
+}
+
+.item h2{
+    color: #ffd700;
+    
+}
