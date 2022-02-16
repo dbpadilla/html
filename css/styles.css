@@ -1,3 +1,10 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    color: #3a3a42;
+}
 .item{
     color: #3a3a42;
     background-color: silver;
@@ -15,4 +22,33 @@ h2{
 .item h2{
     color: #ffd700;
     
+}
+
+.table-unam{
+    border: 1px solid black;
+    background: white;
+}
+
+.table-unam thead th{
+        color: blue;
+        border-bottom: 3px solid red;
+}
+.table-unam tbody td{
+    border: 1px solid green;
+    font-size: 15px;
+    text-align: center;
+}
+
+.item-bg-aqua{
+    background: rgb(7, 95, 66);
+}
+
+.font-size-3{
+    font-size: 30px;
+}
+.font-size-2{
+    font-size: 20px;
+}
+.text-white{
+    color: white;
 }
