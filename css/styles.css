@@ -27,16 +27,18 @@ h2{
 .table-unam{
     border: 1px solid black;
     background: white;
+    width: 80%;
 }
 
 .table-unam thead th{
-        color: blue;
-        border-bottom: 3px solid red;
+        color: #898362;
+        text-align: justify;
+    
 }
 .table-unam tbody td{
-    border: 1px solid green;
+    border-bottom: 1px solid green;
     font-size: 15px;
-    text-align: center;
+
 }
 
 .item-bg-aqua{
@@ -51,4 +53,19 @@ h2{
 }
 .text-white{
     color: white;
+}
+.btn-primary{
+    background-color: #e6cb39;
+    width: 80%;
+    border-radius: 20px;
+    color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 0px;
+    cursor: pointer;
+}
+
+.btn-primary:hover{
+    background-color: #3a3a42;
+    color: aqua;
 }
