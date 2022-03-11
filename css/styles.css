@@ -69,3 +69,6 @@ h2{
     background-color: #3a3a42;
     color: aqua;
 }
+.font-regular{
+    font-weight: 400 !important;
+}
